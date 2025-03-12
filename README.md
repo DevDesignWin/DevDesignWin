@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Debojit Roy</h1>
 <h3 align="center">I'm a passionate software developer with expertise in Full Stack Development, AI/ML, App Development, and Competitive Programming. My focus is on creating impactful and user-friendly applications using modern technologies.</h3>
 
