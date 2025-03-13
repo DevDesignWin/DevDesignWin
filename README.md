@@ -9,7 +9,7 @@
 ## 📫 Connect with me:
 <p align="left">
 <a href="https://x.com/DEBOJIT4007001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debojit4007001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debojit-roy-aa7558285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debojit-roy-aa7558285" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/debojit-roy-aa7558285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debojit-roy-aa7558285" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Languages and Tools:
