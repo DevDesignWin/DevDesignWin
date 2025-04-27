@@ -25,6 +25,9 @@
 
 <img src="1_-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="GitHub Banner" width="100%" />
 
+### 🔝 Most Actively Contributed Repository
+ ![](https://github-contributor-stats.vercel.app/api?username=devdesignwin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devdesignwin/devdesignwin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devdesignwin/devdesignwin/output/github-snake.svg" />
